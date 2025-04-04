@@ -1,8 +1,8 @@
-from brain_games.module import brain_games
+from brain_games.cli import welcome_user
 
 
 def main():
-    brain_games()
+    welcome_user()
 
 
 if __name__ == "__main__":
