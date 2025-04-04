@@ -1,4 +1,5 @@
 import prompt
+
 from .module import brain_games
 
 
