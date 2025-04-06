@@ -1,7 +1,7 @@
 from brain_games.games.even_game import even_game
 from brain_games.module import game_run
 
-QUESTION = "Answer 'yes' if the number is even, otherwise answer 'no'."
+QUESTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def main():
