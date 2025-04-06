@@ -1,3 +1,4 @@
+# Python Project 49
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/Ivan63-coder/python-project-49/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/Ivan63-coder/python-project-49/actions)
 
@@ -7,6 +8,9 @@
 ### Asciinema:
 https://asciinema.org/a/pyuPOHxIifxSspxHlyeNQlFcb
 
+## Open the collapsible block from the bottom
+<details>
+<summary>Russian</summary>
 
 ### Описание проекта:
     Проект содержит 5 мини игр на проверку математических знаний:
@@ -33,3 +37,34 @@ https://asciinema.org/a/pyuPOHxIifxSspxHlyeNQlFcb
 ```brain-calc```
 #####    - "Проверка на чётность":
 ```brain-even```
+
+</details>
+
+<details>
+<summary>Fentash</summary>
+
+### Zugela enila: 
+    Enila odig 5 rolo diru ro ra asetori omsarilkario jumi ro: 
+    - Diru "Esati duma omsa?"
+    - Diru "Omsaovorkario omsaveroka"
+    - "ISO"
+    - "Omsaomkaro" 
+    - "Asetori ra omletav"
+
+### Kilur: 
+#### Imi kilur zatanmi uketson:
+```make install```
+
+### Tutmin diru ro: 
+#### Po kilur, diru ro utmin uketson:
+#####   - Diru "esati duma omsa?":
+```brain-prime```
+#####   - Diru "omsaovorkario omsaveroka":
+```brain-progression```
+#####   - "ISO":
+```brain-gcd```
+#####   - "omsaomkaro":
+```brain-calc```
+#####   - "asetori ra omletav":
+```brain-even```
+</details>
