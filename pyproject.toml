@@ -1,7 +1,8 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "Project 'Brain games' - 5 math games"
+authors = [{name = "Ivan63-coder"}]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
