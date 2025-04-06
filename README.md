@@ -19,17 +19,17 @@ https://asciinema.org/a/pyuPOHxIifxSspxHlyeNQlFcb
 
 ### Установка:
 #### Для установки введите комманду:
-    make install
+    '''make install'''
 
 ### Запуск игр:
 #### После установки, игры запускаются коммандой:
     - Игра "Простое ли число?":
-    brain-prime
+    '''brain-prime'''
     - Игра "Арифметическая прогрессия":
-    brain-progression
+    '''brain-progression'''
     - "НОД":
-    brain-gcd
+    '''brain-gcd'''
     - "Калькулятор":
-    brain-calc
+    '''brain-calc'''
     - "Проверка на чётность":
-    brain-even
+    '''brain-even'''
