@@ -10,5 +10,7 @@ def calc_game():
     num2 = random.randint(1, 25)
     op = random.choice(list(ops.keys()))
     question = f'{num1} {op} {num2}'
+
     correct_answer = str(ops[op](num1, num2))
+    
     return question, correct_answer

@@ -4,6 +4,7 @@ from .cli import welcome_user
 def game_run(game_question, get_question_and_answer):
     name = welcome_user()
     print(game_question)
+    
     for _ in range(3):
         question, correct_answer = get_question_and_answer()
         print(f"Question: {question}")
